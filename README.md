@@ -66,6 +66,6 @@ Features supported by embedded it into MinkowskiEngine
 
 ## Acknowledge
 
-  - (cuda_unordered_map)[https://github.com/theNded/cuda_unordered_map]
-  - (SlabHash)[https://github.com/owensgroup/SlabHash]
+  - [cuda_unordered_map](https://github.com/theNded/cuda_unordered_map)
+  - [SlabHash](https://github.com/owensgroup/SlabHash)
   * [Saman Ashkiani, Martin Farach-Colton, John Owens, *A Dynamic Hash Table for the GPU*, 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS)](https://ieeexplore.ieee.org/abstract/document/8425196)
