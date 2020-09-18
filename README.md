@@ -4,7 +4,7 @@
 - Light Head: the table head has been shrinked 32 times.
 - Multi-Head: one slab router and memory, multi table head.
 - Singleton: reuse slab router and memory by making SlabAlloc singleton,
-  preserve allocating and releasing large GPU memory frequently.
+  prevent allocating and releasing large GPU memory frequently.
 - Random Ring Hash: one random number per table head as the memory block
   offset to make the worse space usage best and uniform.
 - Compact slab memory layout design: support any dim of coordinate with
@@ -59,7 +59,7 @@ int main() {
 Features supported by embedded it into MinkowskiEngine
 
   - Mapping As Indices
-  - Iterate As Insertion
+  - Iteration As Insertion
   - Insertion As Search
   - **Accelerate any sparse, including query-ball in pointcloud and
     pv-rcnn.**
