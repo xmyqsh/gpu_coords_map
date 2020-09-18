@@ -40,7 +40,7 @@ int main() {
 }
 ```
 
-##TODO
+## TODO
 
 
 1. General improvment: [Easy]
@@ -61,8 +61,8 @@ Features supported by embedded it into MinkowskiEngine
   - Mapping As Indices
   - Iterate As Insertion
   - Insertion As Search
-  - `Accelerate any sparse, including query-ball in pointcloud and
-    pv-rcnn`.
+  - **Accelerate any sparse, including query-ball in pointcloud and
+    pv-rcnn.**
 
 ---------------------------------
 
